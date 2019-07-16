@@ -1,0 +1,1713 @@
+\t (00:04:05) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:04:05)     Journal start - Tue Jul 16 11:46:19 2019
+\t (00:04:05)         Host=DESKTOP-0CCQGI6 User=user Pid=11396 CPUs=4
+\t (00:04:05) CmdLine= allegro.exe -p .
+\t (00:04:05) 
+\t (00:04:05) Starting new design...
+\i (00:04:05) trapsize 1442
+\i (00:04:05) trapsize 1415
+\i (00:04:05) trapsize 1442
+\i (00:04:05) trapsize 2689
+\i (00:04:06) trapsize 2689
+\i (00:04:06) generaledit 
+\t (00:04:10) last pick:  545.262 189.820
+\w (00:04:10) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:04:11) grid toggle 
+\i (00:04:11) generaledit 
+\i (00:04:41) prmed 
+\i (00:04:45) setwindow form.prmedit
+\i (00:04:45) FORM prmedit display_plated_holes YES 
+\i (00:04:45) FORM prmedit display_non_plated_holes YES 
+\i (00:04:46) FORM prmedit display_thermal YES 
+\i (00:04:47) FORM prmedit display_fat_rats YES 
+\i (00:04:47) FORM prmedit waived_drc_on YES 
+\i (00:04:48) FORM prmedit via_labels YES 
+\i (00:04:48) FORM prmedit dp_driver_pins YES 
+\i (00:04:49) FORM prmedit secondary_step_model YES 
+\i (00:05:04) FORM prmedit design  
+\i (00:05:26) FORM prmedit long_name_size 255 
+\i (00:05:34) FORM prmedit x -50.000 
+\i (00:05:38) FORM prmedit y -50.000 
+\i (00:05:55) FORM prmedit size A4 
+\i (00:06:30) FORM prmedit done  
+\i (00:06:30) setwindow pcb
+\i (00:06:30) trapsize 1308
+\i (00:06:30) generaledit 
+\i (00:06:50) define grid 
+\t (00:06:50) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:06:50) generaledit 
+\i (00:07:05) setwindow form.grid
+\i (00:07:05) FORM grid top subclass_x_grids 0.635 
+\i (00:07:15) FORM grid non_etch non_etch_x_grids 1.27 
+\i (00:07:15) FORM grid done  
+\i (00:07:18) setwindow pcb
+\i (00:07:18) define grid 
+\t (00:07:19) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:07:19) generaledit 
+\i (00:07:26) setwindow form.grid
+\i (00:07:26) FORM grid non_etch non_etch_y_grids 1.27 
+\i (00:07:40) FORM grid done  
+\i (00:07:52) setwindow pcb
+\i (00:07:52) add pin 
+\i (00:08:06) trapsize 1134
+\i (00:08:23) trapsize 1308
+\i (00:08:52) trapsize 1134
+\i (00:08:56) trapsize 1308
+\i (00:10:14) setwindow form.mini
+\i (00:10:14) FORM mini pad_browse  
+\i (00:13:12) fillin "Pad60cir35d"
+\w (00:13:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:13:12) Using 'PAD60CIR35D.pad'.
+\i (00:13:21) setwindow pcb
+\i (00:13:21) pick grid 83.898 71.345
+\t (00:13:21) last pick:  83.820 71.120
+\t (00:13:21) Using 'PAD60CIR35D.pad'.
+\i (00:13:22) zoom in 1 
+\i (00:13:22) setwindow pcb
+\i (00:13:22) zoom in 84.682 67.161
+\i (00:13:22) trapsize 654
+\i (00:13:22) zoom in 1 
+\i (00:13:22) setwindow pcb
+\i (00:13:22) zoom in 84.813 67.292
+\i (00:13:22) trapsize 327
+\i (00:13:23) zoom in 1 
+\i (00:13:23) setwindow pcb
+\i (00:13:23) zoom in 85.401 67.292
+\i (00:13:23) trapsize 163
+\i (00:13:23) zoom in 1 
+\i (00:13:23) setwindow pcb
+\i (00:13:23) zoom in 85.401 67.293
+\i (00:13:23) trapsize 82
+\i (00:13:25) roam y -96 
+\i (00:13:25) roam y -96
+\i (00:13:26) roam y -96 
+\i (00:13:26) roam y -96
+\i (00:13:26) roam x -96 
+\i (00:13:26) roam x -96
+\i (00:13:26) roam x -96 
+\i (00:13:26) roam x -96
+\i (00:13:26) roam y -96 
+\i (00:13:26) roam y -96
+\i (00:13:28) prepopup 84.207 71.376
+\i (00:13:29) oops 
+\t (00:13:29) Using 'PAD60CIR35D.pad'.
+\i (00:13:35) pick grid 80.644 71.229
+\t (00:13:35) last pick:  80.010 71.120
+\t (00:13:35) Using 'PAD60CIR35D.pad'.
+\i (00:13:48) prepopup 81.984 70.983
+\i (00:13:49) oops 
+\t (00:13:49) Using 'PAD60CIR35D.pad'.
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 88.800 69.398
+\i (00:13:54) trapsize 41
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 88.800 69.406
+\i (00:13:54) trapsize 20
+\i (00:13:54) zoom out 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom out 88.801 69.418
+\i (00:13:54) trapsize 41
+\i (00:13:54) zoom out 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom out 88.800 69.419
+\i (00:13:54) trapsize 82
+\i (00:13:54) zoom out 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom out 88.800 69.418
+\i (00:13:54) trapsize 163
+\i (00:13:54) zoom out 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom out 88.800 69.419
+\i (00:13:54) trapsize 327
+\i (00:13:55) zoom in 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom in 88.800 69.418
+\i (00:13:55) trapsize 163
+\i (00:13:55) zoom in 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom in 88.768 69.419
+\i (00:13:55) trapsize 82
+\i (00:13:55) zoom in 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom in 88.768 69.419
+\i (00:13:55) trapsize 41
+\i (00:13:56) zoom in 1 
+\i (00:13:56) setwindow pcb
+\i (00:13:56) zoom in 88.768 69.428
+\i (00:13:56) trapsize 20
+\i (00:13:57) zoom out 1 
+\i (00:13:57) setwindow pcb
+\i (00:13:57) zoom out 88.768 69.437
+\i (00:13:57) trapsize 41
+\i (00:13:58) roam x -96 
+\i (00:13:58) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:13:59) roam x -96 
+\i (00:13:59) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:00) roam x -96
+\i (00:14:00) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:01) roam x -96
+\i (00:14:01) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:02) roam x -96
+\i (00:14:02) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:03) roam x -96
+\i (00:14:03) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -16
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam x -96 
+\i (00:14:04) roam y 96 
+\i (00:14:04) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:05) roam y 96
+\i (00:14:05) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:06) roam y 96
+\i (00:14:06) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:07) roam y 96
+\i (00:14:07) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:08) roam y 96 
+\i (00:14:08) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:09) roam y 96
+\i (00:14:09) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:10) roam y 96 
+\i (00:14:11) roam y 96 
+\i (00:14:11) roam y 96 
+\i (00:14:11) roam y 96 
+\i (00:14:11) roam y 96 
+\i (00:14:11) roam y 96 
+\i (00:14:12) zoom out 1 
+\i (00:14:12) setwindow pcb
+\i (00:14:12) zoom out -42.474 -47.835
+\i (00:14:12) trapsize 82
+\i (00:14:14) zoom in 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom in -35.045 -45.652
+\i (00:14:14) trapsize 41
+\i (00:14:15) zoom in 1 
+\i (00:14:15) setwindow pcb
+\i (00:14:15) zoom in -35.045 -45.652
+\i (00:14:15) trapsize 20
+\i (00:14:15) roam x -96 
+\i (00:14:15) roam x -96
+\i (00:14:19) roam x 96 
+\i (00:14:19) roam x 96
+\i (00:14:19) roam x 96 
+\i (00:14:19) roam x 96
+\i (00:14:20) roam x -96 
+\i (00:14:20) roam x -96
+\i (00:14:20) roam x -96 
+\i (00:14:20) roam x -96
+\i (00:14:20) roam x -96 
+\i (00:14:20) roam x -96
+\i (00:14:20) roam x -96 
+\i (00:14:20) roam x -96
+\i (00:14:20) zoom in 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom in -36.570 -44.962
+\i (00:14:20) trapsize 10
+\i (00:14:20) zoom in 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom in -36.570 -44.961
+\i (00:14:20) trapsize 5
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in -36.569 -44.961
+\i (00:14:21) trapsize 3
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out -36.569 -44.961
+\i (00:14:21) trapsize 5
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out -36.569 -44.961
+\i (00:14:21) trapsize 10
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out -36.570 -44.960
+\i (00:14:21) trapsize 20
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out -36.570 -44.961
+\i (00:14:21) trapsize 41
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out -36.569 -44.960
+\i (00:14:22) trapsize 82
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out -36.434 -42.890
+\i (00:14:22) trapsize 163
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out -22.868 -35.748
+\i (00:14:22) trapsize 327
+\i (00:14:23) roam x -96 
+\i (00:14:23) roam y 96 
+\i (00:14:23) roam y 96 
+\i (00:14:23) roam y 96 
+\i (00:14:23) roam y 96 
+\i (00:14:23) roam y 96 
+\i (00:14:23) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96 
+\i (00:14:26) zoom in 1 
+\i (00:14:26) setwindow pcb
+\i (00:14:26) zoom in -29.079 -36.205
+\i (00:14:26) trapsize 163
+\i (00:14:27) zoom in 1 
+\i (00:14:27) setwindow pcb
+\i (00:14:27) zoom in -26.431 -35.976
+\i (00:14:27) trapsize 82
+\i (00:14:27) zoom in 1 
+\i (00:14:27) setwindow pcb
+\i (00:14:27) zoom in -26.431 -35.976
+\i (00:14:27) trapsize 41
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out -21.193 -34.954
+\i (00:14:32) trapsize 82
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out -21.176 -34.954
+\i (00:14:32) trapsize 163
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out -15.906 -34.954
+\i (00:14:32) trapsize 327
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out 18.189 -27.575
+\i (00:14:32) trapsize 654
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out 86.248 -5.151
+\i (00:14:32) trapsize 1308
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out 222.503 39.701
+\i (00:14:32) trapsize 1308
+\i (00:14:34) zoom in 1 
+\i (00:14:34) setwindow pcb
+\i (00:14:34) zoom in 218.319 42.055
+\i (00:14:34) trapsize 654
+\i (00:14:37) pick grid 57.660 53.562
+\t (00:14:37) last pick:  57.150 53.340
+\t (00:14:37) Using 'PAD60CIR35D.pad'.
+\i (00:14:39) zoom in 1 
+\i (00:14:39) setwindow pcb
+\i (00:14:39) zoom in 60.406 50.816
+\i (00:14:39) trapsize 327
+\i (00:14:39) zoom in 1 
+\i (00:14:39) setwindow pcb
+\i (00:14:39) zoom in 60.406 50.751
+\i (00:14:39) trapsize 163
+\i (00:14:39) roam x -96 
+\i (00:14:39) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x -96 
+\i (00:14:40) roam x -96
+\i (00:14:40) roam x 96 
+\i (00:14:40) roam x 96
+\i (00:14:41) zoom in 1 
+\i (00:14:41) setwindow pcb
+\i (00:14:41) zoom in 51.830 47.123
+\i (00:14:41) trapsize 82
+\i (00:14:41) roam x 96 
+\i (00:14:41) roam x 96
+\i (00:14:42) zoom in 1 
+\i (00:14:42) setwindow pcb
+\i (00:14:42) zoom in 53.397 47.139
+\i (00:14:42) trapsize 41
+\i (00:14:43) zoom out 1 
+\i (00:14:43) setwindow pcb
+\i (00:14:43) zoom out 53.561 47.204
+\i (00:14:43) trapsize 82
+\i (00:14:43) roam x 96 
+\i (00:14:43) roam x 96
+\i (00:14:44) roam x 96 
+\i (00:14:44) roam x 96
+\i (00:14:45) roam x 96 
+\i (00:14:45) roam x 96
+\i (00:14:57) setwindow form.mini
+\i (00:14:57) FORM mini x_spacing 2.540 
+\i (00:15:13) FORM mini next_pin_number 1 
+\i (00:15:13) setwindow pcb
+\i (00:15:13) prepopup 57.691 53.219
+\i (00:15:14) oops 
+\t (00:15:14) Using 'PAD60CIR35D.pad'.
+\i (00:15:18) zoom in 1 
+\i (00:15:18) setwindow pcb
+\i (00:15:18) zoom in 61.663 50.539
+\i (00:15:18) trapsize 41
+\i (00:15:18) zoom in 1 
+\i (00:15:18) setwindow pcb
+\i (00:15:18) zoom in 61.655 50.548
+\i (00:15:18) trapsize 20
+\i (00:15:19) zoom out 1 
+\i (00:15:19) setwindow pcb
+\i (00:15:19) zoom out 61.655 50.548
+\i (00:15:19) trapsize 41
+\i (00:15:19) zoom out 1 
+\i (00:15:19) setwindow pcb
+\i (00:15:19) zoom out 61.655 50.548
+\i (00:15:19) trapsize 82
+\i (00:15:19) zoom out 1 
+\i (00:15:19) setwindow pcb
+\i (00:15:19) zoom out 61.655 50.547
+\i (00:15:19) trapsize 163
+\i (00:15:24) pick grid 44.951 44.599
+\t (00:15:24) last pick:  44.450 44.450
+\t (00:15:24) Using 'PAD60CIR35D.pad'.
+\i (00:15:25) prepopup 44.069 44.272
+\i (00:15:25) oops 
+\t (00:15:25) Using 'PAD60CIR35D.pad'.
+\i (00:15:39) zoom out 1 
+\i (00:15:39) setwindow pcb
+\i (00:15:39) zoom out 52.176 38.453
+\i (00:15:39) trapsize 327
+\i (00:15:39) zoom out 1 
+\i (00:15:39) setwindow pcb
+\i (00:15:39) zoom out 52.175 38.584
+\i (00:15:39) trapsize 654
+\i (00:15:39) zoom out 1 
+\i (00:15:39) setwindow pcb
+\i (00:15:39) zoom out 61.143 38.845
+\i (00:15:39) trapsize 1308
+\i (00:15:44) zoom in 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom in 129.402 4.919
+\i (00:15:44) trapsize 654
+\i (00:15:44) zoom in 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom in 129.663 6.358
+\i (00:15:44) trapsize 327
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 129.925 6.750
+\i (00:15:44) trapsize 654
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 130.055 6.750
+\i (00:15:44) trapsize 1308
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 131.494 9.365
+\i (00:15:44) trapsize 1308
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 131.494 9.365
+\i (00:15:44) trapsize 1308
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 131.494 9.365
+\i (00:15:44) trapsize 1308
+\i (00:15:44) zoom out 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom out 131.756 9.365
+\i (00:15:44) trapsize 1308
+\i (00:15:44) zoom in 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom in 131.756 9.365
+\i (00:15:44) trapsize 654
+\i (00:15:44) zoom in 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom in 131.756 9.365
+\i (00:15:44) trapsize 327
+\i (00:15:44) zoom in 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom in 131.756 9.365
+\i (00:15:44) trapsize 163
+\i (00:15:44) zoom in 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom in 131.789 9.366
+\i (00:15:44) trapsize 82
+\i (00:15:44) zoom in 1 
+\i (00:15:44) setwindow pcb
+\i (00:15:44) zoom in 131.789 9.366
+\i (00:15:44) trapsize 41
+\i (00:15:44) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 131.789 9.382
+\i (00:15:45) trapsize 20
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 131.789 9.391
+\i (00:15:45) trapsize 10
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 131.791 9.395
+\i (00:15:45) trapsize 5
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 131.791 9.395
+\i (00:15:45) trapsize 3
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 131.791 9.395
+\i (00:15:45) trapsize 1
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 131.791 9.396
+\i (00:15:45) trapsize 1
+\i (00:15:45) zoom in 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom in 131.791 9.396
+\i (00:15:45) trapsize 1
+\i (00:15:45) zoom out 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom out 131.792 9.397
+\i (00:15:45) trapsize 1
+\i (00:15:45) zoom out 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom out 131.791 9.397
+\i (00:15:45) trapsize 1
+\i (00:15:45) zoom out 1 
+\i (00:15:45) setwindow pcb
+\i (00:15:45) zoom out 131.792 9.397
+\i (00:15:45) trapsize 3
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 131.792 9.398
+\i (00:15:46) trapsize 5
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 131.791 9.397
+\i (00:15:46) trapsize 10
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 131.794 9.404
+\i (00:15:46) trapsize 20
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 131.793 9.404
+\i (00:15:46) trapsize 41
+\i (00:15:47) zoom out 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom out 131.793 9.412
+\i (00:15:47) trapsize 81
+\i (00:15:47) zoom out 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom out 131.778 9.444
+\i (00:15:47) trapsize 163
+\i (00:15:47) zoom out 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom out 131.777 9.445
+\i (00:15:47) trapsize 326
+\i (00:15:53) zoom in 1 
+\i (00:15:53) setwindow pcb
+\i (00:15:53) zoom in 131.974 10.356
+\i (00:15:53) trapsize 163
+\i (00:15:55) setwindow worldview
+\i (00:15:55) trapsize 545
+\i (00:16:01) setwindow pcb
+\i (00:16:01) zoom out 1 
+\i (00:16:01) setwindow pcb
+\i (00:16:01) zoom out 159.541 -28.994
+\i (00:16:01) trapsize 1090
+\i (00:16:01) zoom out 1 
+\i (00:16:01) setwindow pcb
+\i (00:16:01) zoom out 277.993 -24.937
+\i (00:16:01) trapsize 1308
+\i (00:16:02) zoom in 1 
+\i (00:16:02) setwindow pcb
+\i (00:16:02) zoom in 200.274 8.580
+\i (00:16:02) trapsize 654
+\i (00:16:03) zoom in 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom in 169.983 8.580
+\i (00:16:03) trapsize 327
+\i (00:16:03) zoom out 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom out 169.983 8.580
+\i (00:16:03) trapsize 654
+\i (00:16:03) zoom out 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom out 169.983 8.580
+\i (00:16:03) trapsize 1308
+\i (00:16:03) zoom out 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom out 199.490 9.103
+\i (00:16:03) trapsize 1308
+\i (00:16:04) zoom out 1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) zoom out 199.490 9.103
+\i (00:16:04) trapsize 1308
+\i (00:16:04) zoom in 1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) zoom in 198.443 9.103
+\i (00:16:04) trapsize 654
+\i (00:16:04) zoom in 1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) zoom in 169.067 9.104
+\i (00:16:04) trapsize 327
+\i (00:16:05) zoom in 1 
+\i (00:16:05) setwindow pcb
+\i (00:16:05) zoom in 169.068 9.104
+\i (00:16:05) trapsize 163
+\i (00:16:05) zoom in 1 
+\i (00:16:05) setwindow pcb
+\i (00:16:05) zoom in 169.069 9.104
+\i (00:16:06) trapsize 82
+\i (00:16:06) zoom in 1 
+\i (00:16:06) setwindow pcb
+\i (00:16:06) zoom in 169.052 9.104
+\i (00:16:06) trapsize 41
+\i (00:16:07) zoom out 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom out 169.052 9.112
+\i (00:16:07) trapsize 82
+\i (00:16:07) zoom out 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom out 169.053 9.112
+\i (00:16:07) trapsize 163
+\i (00:16:07) zoom out 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom out 169.052 9.112
+\i (00:16:07) trapsize 327
+\i (00:16:07) zoom out 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom out 169.051 9.113
+\i (00:16:07) trapsize 654
+\i (00:16:08) zoom out 1 
+\i (00:16:08) setwindow pcb
+\i (00:16:08) zoom out 168.939 9.113
+\i (00:16:08) trapsize 1308
+\i (00:16:14) zoom in 1 
+\i (00:16:14) setwindow pcb
+\i (00:16:14) zoom in 197.136 9.365
+\i (00:16:14) trapsize 654
+\i (00:16:14) zoom in 1 
+\i (00:16:14) setwindow pcb
+\i (00:16:14) zoom in 168.414 9.365
+\i (00:16:14) trapsize 327
+\i (00:16:15) zoom in 1 
+\i (00:16:15) setwindow pcb
+\i (00:16:15) zoom in 168.348 9.365
+\i (00:16:15) trapsize 163
+\i (00:16:17) zoom in 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom in 161.516 13.746
+\i (00:16:17) trapsize 82
+\i (00:16:17) zoom in 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom in 161.500 13.746
+\i (00:16:17) trapsize 41
+\i (00:16:18) zoom out 1 
+\i (00:16:18) setwindow pcb
+\i (00:16:18) zoom out 161.492 13.771
+\i (00:16:18) trapsize 82
+\i (00:17:10) pick 7.62 7.62 
+\t (00:17:10) last pick:  7.620 7.620
+\t (00:17:10) Using 'PAD60CIR35D.pad'.
+\i (00:17:11) pick 7.62 7.62 
+\t (00:17:11) last pick:  7.620 7.620
+\t (00:17:11) Using 'PAD60CIR35D.pad'.
+\i (00:17:11) pick 7.62 7.62 
+\t (00:17:11) last pick:  7.620 7.620
+\t (00:17:11) Using 'PAD60CIR35D.pad'.
+\i (00:17:11) pick 7.62 7.62 
+\t (00:17:11) last pick:  7.620 7.620
+\t (00:17:11) Using 'PAD60CIR35D.pad'.
+\i (00:17:12) pick 7.62 7.62 
+\t (00:17:12) last pick:  7.620 7.620
+\t (00:17:12) Using 'PAD60CIR35D.pad'.
+\i (00:17:12) pick 7.62 7.62 
+\t (00:17:12) last pick:  7.620 7.620
+\t (00:17:12) Using 'PAD60CIR35D.pad'.
+\i (00:17:18) setwindow form.mini
+\i (00:17:18) FORM mini x_direction Left 
+\i (00:17:23) setwindow pcb
+\i (00:17:23) pick 7.62 7.62 
+\t (00:17:23) last pick:  7.620 7.620
+\t (00:17:23) Using 'PAD60CIR35D.pad'.
+\i (00:17:34) pick grid 159.368 13.934
+\t (00:17:34) last pick:  158.750 13.970
+\t (00:17:34) Using 'PAD60CIR35D.pad'.
+\i (00:17:36) pick grid 160.675 13.656
+\t (00:17:36) last pick:  161.290 13.970
+\t (00:17:36) Using 'PAD60CIR35D.pad'.
+\i (00:17:37) pick grid 163.208 13.672
+\t (00:17:37) last pick:  163.830 13.970
+\t (00:17:37) Using 'PAD60CIR35D.pad'.
+\i (00:17:39) pick grid 165.742 13.656
+\t (00:17:39) last pick:  166.370 13.970
+\t (00:17:39) Using 'PAD60CIR35D.pad'.
+\i (00:17:47) pick grid 158.125 18.624
+\t (00:17:47) last pick:  158.750 19.050
+\t (00:17:47) Using 'PAD60CIR35D.pad'.
+\i (00:17:48) pick grid 160.708 18.706
+\t (00:17:48) last pick:  161.290 19.050
+\t (00:17:48) Using 'PAD60CIR35D.pad'.
+\i (00:17:50) pick grid 163.274 18.706
+\t (00:17:50) last pick:  163.830 19.050
+\t (00:17:50) Using 'PAD60CIR35D.pad'.
+\i (00:17:51) pick grid 165.742 18.706
+\t (00:17:51) last pick:  166.370 19.050
+\t (00:17:51) Using 'PAD60CIR35D.pad'.
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out 167.229 16.680
+\i (00:17:53) trapsize 163
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out 167.163 16.614
+\i (00:17:53) trapsize 327
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out 167.033 16.614
+\i (00:17:53) trapsize 654
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out 166.771 20.478
+\i (00:17:53) trapsize 1308
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out 231.656 90.697
+\i (00:17:53) trapsize 1308
+\i (00:17:53) zoom out 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom out 231.395 90.697
+\i (00:17:53) trapsize 1308
+\i (00:17:53) zoom in 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom in 230.610 90.697
+\i (00:17:53) trapsize 654
+\i (00:17:53) zoom in 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom in 185.020 90.698
+\i (00:17:53) trapsize 327
+\i (00:17:53) zoom in 1 
+\i (00:17:54) setwindow pcb
+\i (00:17:54) zoom in 185.020 90.698
+\i (00:17:54) trapsize 163
+\i (00:17:54) zoom out 1 
+\i (00:17:54) setwindow pcb
+\i (00:17:54) zoom out 185.021 90.698
+\i (00:17:54) trapsize 327
+\i (00:17:54) zoom out 1 
+\i (00:17:54) setwindow pcb
+\i (00:17:54) zoom out 185.021 90.699
+\i (00:17:54) trapsize 654
+\i (00:17:54) zoom out 1 
+\i (00:17:54) setwindow pcb
+\i (00:17:54) zoom out 185.019 90.960
+\i (00:17:54) trapsize 1308
+\i (00:17:54) zoom out 1 
+\i (00:17:54) setwindow pcb
+\i (00:17:54) zoom out 230.349 91.220
+\i (00:17:54) trapsize 1308
+\i (00:17:56) pick grid 7.011 7.273
+\t (00:17:56) last pick:  7.620 7.620
+\t (00:17:56) Using 'PAD60CIR35D.pad'.
+\i (00:17:57) pick grid -0.050 15.903
+\t (00:17:57) last pick:  0.000 16.510
+\t (00:17:57) Using 'PAD60CIR35D.pad'.
+\i (00:17:59) prepopup -0.834 14.334
+\i (00:18:01) oops 
+\t (00:18:01) last pick:  7.620 7.620
+\t (00:18:01) Using 'PAD60CIR35D.pad'.
+\i (00:18:01) prepopup -0.834 18.518
+\i (00:18:02) oops 
+\t (00:18:02) last pick:  166.370 19.050
+\t (00:18:02) Using 'PAD60CIR35D.pad'.
+\i (00:18:03) prepopup 13.811 25.579
+\i (00:18:03) oops 
+\t (00:18:03) last pick:  163.830 19.050
+\t (00:18:03) Using 'PAD60CIR35D.pad'.
+\i (00:18:04) prepopup 15.118 31.071
+\i (00:18:04) oops 
+\t (00:18:04) last pick:  161.290 19.050
+\t (00:18:04) Using 'PAD60CIR35D.pad'.
+\i (00:18:05) prepopup 13.549 32.117
+\i (00:18:05) oops 
+\t (00:18:05) last pick:  158.750 19.050
+\t (00:18:05) Using 'PAD60CIR35D.pad'.
+\i (00:18:05) prepopup 13.549 32.379
+\i (00:18:06) oops 
+\t (00:18:06) last pick:  166.370 13.970
+\t (00:18:06) Using 'PAD60CIR35D.pad'.
+\i (00:18:06) prepopup 13.549 32.379
+\i (00:18:07) cancel 
+\t (00:18:07) Exiting from Add Pin.
+\i (00:18:07) generaledit 
+\i (00:18:11) prepopup 16.949 8.319
+\i (00:18:12) pick grid 33.425 29.763
+\t (00:18:12) last pick:  33.020 29.210
+\i (00:18:39) define grid 
+\t (00:18:39) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:18:39) generaledit 
+\i (00:18:41) setwindow form.grid
+\i (00:18:41) FORM grid done  
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom in 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom in 170.199 76.314
+\i (00:18:50) trapsize 654
+\i (00:18:50) zoom in 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom in 154.945 76.314
+\i (00:18:50) trapsize 327
+\i (00:18:50) zoom in 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom in 154.946 76.314
+\i (00:18:50) trapsize 163
+\i (00:18:50) zoom in 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom in 154.979 76.282
+\i (00:18:50) trapsize 82
+\i (00:18:50) zoom in 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom in 153.655 76.397
+\i (00:18:50) trapsize 41
+\i (00:18:50) zoom in 1 
+\i (00:18:50) setwindow pcb
+\i (00:18:50) zoom in 153.647 76.405
+\i (00:18:50) trapsize 20
+\i (00:18:51) zoom out 1 
+\i (00:18:51) setwindow pcb
+\i (00:18:51) zoom out 153.647 76.405
+\i (00:18:51) trapsize 41
+\i (00:18:51) zoom out 1 
+\i (00:18:51) setwindow pcb
+\i (00:18:51) zoom out 153.648 76.413
+\i (00:18:51) trapsize 82
+\i (00:18:51) zoom out 1 
+\i (00:18:51) setwindow pcb
+\i (00:18:51) zoom out 153.648 76.430
+\i (00:18:51) trapsize 163
+\i (00:18:52) zoom out 1 
+\i (00:18:52) setwindow pcb
+\i (00:18:52) zoom out 153.647 76.431
+\i (00:18:52) trapsize 327
+\i (00:18:52) zoom out 1 
+\i (00:18:52) setwindow pcb
+\i (00:18:52) zoom out 153.713 76.431
+\i (00:18:52) trapsize 654
+\i (00:18:52) zoom out 1 
+\i (00:18:52) setwindow pcb
+\i (00:18:52) zoom out 144.487 76.431
+\i (00:18:52) trapsize 1308
+\i (00:18:52) zoom in 1 
+\i (00:18:52) setwindow pcb
+\i (00:18:52) zoom in 149.278 78.406
+\i (00:18:52) trapsize 654
+\i (00:19:04) add pin 
+\i (00:19:16) setwindow form.mini
+\i (00:19:16) FORM mini x_count 4 
+\i (00:19:26) FORM mini x_spacing 2.540 
+\i (00:19:30) FORM mini next_pin_number 9 
+\i (00:19:38) setwindow pcb
+\i (00:19:38) zoom out 1 
+\i (00:19:38) setwindow pcb
+\i (00:19:38) zoom out 56.876 16.426
+\i (00:19:38) trapsize 1308
+\i (00:19:38) zoom out 1 
+\i (00:19:38) setwindow pcb
+\i (00:19:38) zoom out -25.940 -45.293
+\i (00:19:38) trapsize 1308
+\i (00:19:46) zoom in 1 
+\i (00:19:46) setwindow pcb
+\i (00:19:46) zoom in -0.311 -2.665
+\i (00:19:46) trapsize 654
+\i (00:19:47) zoom in 1 
+\i (00:19:47) setwindow pcb
+\i (00:19:47) zoom in -0.311 -2.665
+\i (00:19:47) trapsize 327
+\i (00:19:47) zoom in 1 
+\i (00:19:47) setwindow pcb
+\i (00:19:47) zoom in -0.376 -2.664
+\i (00:19:47) trapsize 163
+\i (00:19:59) setwindow form.mini
+\i (00:19:59) FORM mini pad_browse  
+\i (00:20:10) fillin "Pad60cir35d"
+\w (00:20:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:20:10) Using 'PAD60CIR35D.pad'.
+\i (00:20:15) setwindow pcb
+\i (00:20:15) pick grid 0.605 0.343
+\t (00:20:15) last pick:  0.000 0.000
+\t (00:20:15) Using 'PAD60CIR35D.pad'.
+\i (00:20:22) prepopup -0.245 -0.114
+\i (00:20:23) cancel 
+\t (00:20:23) Exiting from Add Pin.
+\i (00:20:23) generaledit 
+\i (00:20:27) add pin 
+\i (00:20:30) setwindow form.mini
+\i (00:20:30) FORM mini pad_browse  
+\i (00:20:38) fillin "Pad60cir35d"
+\w (00:20:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:20:38) Using 'PAD60CIR35D.pad'.
+\i (00:20:46) FORM mini x_spacing 4.000 
+\i (00:20:47) FORM mini x_count 4 
+\i (00:20:50) FORM mini x_spacing 2.540 
+\i (00:20:56) setwindow pcb
+\i (00:20:56) pick grid 0.507 0.245
+\t (00:20:56) last pick:  0.000 0.000
+\t (00:20:56) Using 'PAD60CIR35D.pad'.
+\i (00:21:21) setwindow form.mini
+\i (00:21:21) FORM mini x_direction Left 
+\i (00:21:37) setwindow pcb
+\i (00:21:37) pick 7.62 7.62 
+\t (00:21:37) last pick:  7.620 7.620
+\t (00:21:37) Using 'PAD60CIR35D.pad'.
+\i (00:27:21) zoom in 1 
+\i (00:27:21) setwindow pcb
+\i (00:27:21) zoom in -2.402 0.540
+\i (00:27:21) trapsize 82
+\i (00:30:27) zoom in 1 
+\i (00:30:27) setwindow pcb
+\i (00:30:27) zoom in 11.164 3.351
+\i (00:30:27) trapsize 41
+\i (00:30:28) zoom out 1 
+\i (00:30:28) setwindow pcb
+\i (00:30:28) zoom out 11.196 3.352
+\i (00:30:28) trapsize 82
+\i (00:30:30) roam start
+\i (00:30:30) roam x -64
+\i (00:30:30) roam x -80
+\i (00:30:30) roam x -64
+\i (00:30:30) roam x -32
+\i (00:30:30) roam x -32
+\i (00:30:30) roam x -16
+\i (00:30:30) roam x 16
+\i (00:30:30) roam x 208
+\i (00:30:30) roam x 144
+\i (00:30:31) roam x 32
+\i (00:30:31) roam y -32
+\i (00:30:31) roam x -16
+\i (00:30:31) roam y -80
+\i (00:30:31) roam y -80
+\i (00:30:31) roam y -16
+\i (00:30:31) roam x -16
+\i (00:30:31) roam y 16
+\i (00:30:31) roam y 32
+\i (00:30:31) roam x -32
+\i (00:30:31) roam y 48
+\i (00:30:31) roam y 32
+\i (00:30:32) roam x -16
+\i (00:30:32) roam x -80
+\i (00:30:32) roam x -16
+\i (00:30:32) roam end
+\i (00:31:30) add line 
+\t (00:31:30) Exiting from Add Pin.
+\i (00:31:39) setwindow form.mini
+\i (00:31:39) FORM mini line_width 0.200 
+\i (00:32:37) setwindow pcb
+\i (00:32:37) pick grid -1.294 2.530
+\t (00:32:37) last pick:  -1.270 2.540
+\i (00:32:41) prepopup -1.212 2.498
+\i (00:32:43) oops 
+\i (00:32:52) setwindow form.mini
+\i (00:32:52) FORM mini subclass SILKSCREEN_TOP 
+\i (00:33:00) setwindow pcb
+\i (00:33:00) pick grid -1.261 2.547
+\t (00:33:00) last pick:  -1.270 2.540
+\i (00:33:03) pick grid -1.033 1.893
+\t (00:33:03) last pick:  -1.270 1.270
+\i (00:33:07) pick grid 8.283 1.452
+\t (00:33:07) last pick:  8.890 1.270
+\i (00:33:10) pick grid 8.888 5.734
+\t (00:33:10) last pick:  8.890 6.350
+\i (00:33:11) pick grid -0.657 6.306
+\t (00:33:11) last pick:  -1.270 6.350
+\i (00:33:13) pick grid -1.572 5.669
+\t (00:33:13) last pick:  -1.270 5.080
+\i (00:33:41) prepopup -0.738 5.195
+\i (00:33:41) done 
+\i (00:33:42) generaledit 
+\i (00:33:56) add arc 
+\i (00:34:00) pick grid -1.278 5.096
+\t (00:34:00) last pick:  -1.270 5.080
+\i (00:34:04) pick grid -1.212 3.152
+\t (00:34:04) last pick:  -1.270 2.540
+\i (00:34:11) pick grid -0.591 3.805
+\t (00:34:11) last pick:  0.000 3.810
+\i (00:34:51) prepopup 0.291 3.707
+\i (00:34:52) done 
+\i (00:34:52) generaledit 
+\i (00:35:43) replace padstack 
+\i (00:35:45) pick grid 0.046 -0.134
+\t (00:35:45) last pick:  0.000 0.000
+\i (00:35:52) setwindow form.mini
+\i (00:35:52) FORM mini newname_browse  
+\i (00:36:59) fillin "Pad60sq36d"
+\w (00:36:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:37:42) FORM mini pinnumber 1 
+\i (00:37:52) FORM mini replace  
+\i (00:37:54) setwindow pcb
+\i (00:37:54) prepopup 0.144 0.389
+\i (00:37:55) done 
+\t (00:37:55) Performing DRC...
+\t (00:37:55) No DRC errors detected.
+\i (00:37:55) generaledit 
+\i (00:38:44) label refdes 
+\t (00:38:44) Pick text location.
+\i (00:38:53) setwindow form.mini
+\i (00:38:53) FORM mini subclass SILKSCREEN_TOP 
+\i (00:39:14) setwindow pcb
+\i (00:39:14) zoom in 1 
+\i (00:39:14) setwindow pcb
+\i (00:39:14) zoom in 3.413 7.613
+\i (00:39:14) trapsize 41
+\i (00:39:15) zoom out 1 
+\i (00:39:15) setwindow pcb
+\i (00:39:15) zoom out 3.422 7.614
+\i (00:39:15) trapsize 82
+\i (00:39:15) zoom out 1 
+\i (00:39:15) setwindow pcb
+\i (00:39:15) zoom out 3.421 7.613
+\i (00:39:15) trapsize 163
+\i (00:39:17) pick grid 0.152 10.295
+\t (00:39:17) last pick:  0.000 10.160
+\t (00:39:17) Enter text string.
+\i (00:39:35) setwindow pcb
+\i (00:39:35) prepopup 2.015 10.426
+\i (00:39:36) done 
+\i (00:39:36) setwindow pcb
+\i (00:39:36) pick 0.000 10.160
+\i (00:39:36) setwindow pcb
+\i (00:39:36) generaledit 
+\i (00:39:42) save 
+\t (00:39:46) Symbol 'my_dip8.psm' created.
+\i (00:39:46) save 
+\i (00:39:52) fillin yes 
+\t (00:39:52) Symbol 'my_dip8.psm' created.
+\i (00:39:52) generaledit 
+\i (00:40:46) drag_start grid -1.482 13.171
+\i (00:40:47) drag_stop -0.240 -11.149
+\i (00:40:49) pick grid -2.136 -7.553
+\t (00:40:49) last pick:  -2.540 -7.620
+\i (00:40:51) drag_start grid -6.549 13.008
+\i (00:40:51) drag_stop -5.438 -11.607
+\i (00:40:51) pick grid -5.536 -11.574
+\t (00:40:51) last pick:  -5.080 -11.430
+\i (00:40:57) zoom in 1 
+\i (00:40:57) setwindow pcb
+\i (00:40:57) zoom in 9.534 -1.767
+\i (00:40:57) trapsize 82
+\i (00:40:58) roam start
+\i (00:40:58) roam x 32
+\i (00:40:58) roam y 48
+\i (00:40:58) roam x 48
+\i (00:40:58) roam y 64
+\i (00:40:58) roam x 48
+\i (00:40:58) roam y 48
+\i (00:40:58) roam x 32
+\i (00:40:58) roam y 48
+\i (00:40:58) roam x 48
+\i (00:40:58) roam y 48
+\i (00:40:58) roam x 32
+\i (00:40:58) roam y 32
+\i (00:40:58) roam y 16
+\i (00:40:58) roam x -80
+\i (00:40:58) roam y -80
+\i (00:40:58) roam x -80
+\i (00:40:58) roam y -112
+\i (00:40:58) roam x -80
+\i (00:40:58) roam y -96
+\i (00:40:58) roam x -48
+\i (00:40:58) roam y -48
+\i (00:40:59) roam x -16
+\i (00:40:59) roam y -32
+\i (00:40:59) roam x -48
+\i (00:40:59) roam y -32
+\i (00:40:59) roam x -16
+\i (00:40:59) roam x -16
+\i (00:40:59) roam x -16
+\i (00:40:59) roam x -32
+\i (00:40:59) roam x -16
+\i (00:40:59) roam y -16
+\i (00:40:59) roam x -16
+\i (00:40:59) roam y -16
+\i (00:40:59) roam y -48
+\i (00:40:59) roam y -32
+\i (00:40:59) roam y -48
+\i (00:40:59) roam y -16
+\i (00:41:00) roam end
+\i (00:41:01) zoom out 1 
+\i (00:41:01) setwindow pcb
+\i (00:41:01) zoom out 9.444 4.524
+\i (00:41:01) trapsize 163
+\i (00:43:51) enved 
+\i (00:43:52) generaledit 
+\i (00:43:57) setwindow form.prfedit
+\i (00:43:57) FORM prfedit treelist  Library Paths 
+\i (00:45:17) FORM prfedit padpath  
+\i (00:46:27) FORM prfedit parampath  
+\i (00:47:51) FORM prfedit treelist  File_management 
+\i (00:47:54) FORM prfedit treelist  Output_dir File_management 
+\i (00:48:28) FORM prfedit dump_library_directory gerber 
+\i (00:48:29) FORM prfedit ads_sdart gerber 
+\i (00:48:33) FORM prfedit dump_library_directory  
+\i (00:49:00) FORM prfedit done  
+\i (00:52:01) setwindow pcb
+\i (00:52:01) pick grid 16.210 11.846
+\t (00:52:01) last pick:  16.510 11.430
+\i (00:52:20) new 
+\i (00:53:10) newdrawfillin "my_dip16.dra" "Package Symbol"
+\t (00:53:10)     Journal end - Tue Jul 16 12:35:25 2019
