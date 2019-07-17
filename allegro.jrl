@@ -1,0 +1,108 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Wed Jul 17 10:56:17 2019
+\t (00:00:01)         Host=DESKTOP-0CCQGI6 User=user Pid=6368 CPUs=4
+\t (00:00:01) CmdLine= allegro.exe -p .
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: c:/Users/user/Desktop/work/PCB_lib/my_dip8.dra
+\i (00:00:02) trapsize 154
+\i (00:00:02) trapsize 151
+\i (00:00:02) trapsize 155
+\i (00:00:03) trapsize 163
+\i (00:00:03) trapsize 163
+\i (00:00:03) generaledit 
+\i (00:07:11) pick grid 19.340 1.273
+\t (00:07:11) last pick:  19.050 1.270
+\i (00:07:13) zoom in 1 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) zoom in 9.011 -3.173
+\i (00:07:13) trapsize 82
+\i (00:07:13) zoom in 1 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) zoom in 8.995 -3.140
+\i (00:07:13) trapsize 41
+\i (00:07:13) zoom out 1 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) zoom out 8.995 -3.140
+\i (00:07:13) trapsize 82
+\i (00:07:13) zoom out 1 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) zoom out 8.995 -3.139
+\i (00:07:13) trapsize 163
+\i (00:07:13) zoom out 1 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) zoom out 8.994 -3.140
+\i (00:07:13) trapsize 327
+\i (00:07:14) zoom in 1 
+\i (00:07:14) setwindow pcb
+\i (00:07:14) zoom in 8.602 -1.766
+\i (00:07:14) trapsize 163
+\i (00:07:15) zoom in 1 
+\i (00:07:15) setwindow pcb
+\i (00:07:15) zoom in 8.602 -1.766
+\i (00:07:15) trapsize 82
+\i (00:07:15) zoom out 1 
+\i (00:07:15) setwindow pcb
+\i (00:07:15) zoom out 8.602 -1.766
+\i (00:07:15) trapsize 163
+\i (00:07:15) zoom out 1 
+\i (00:07:15) setwindow pcb
+\i (00:07:15) zoom out 8.601 -1.766
+\i (00:07:15) trapsize 327
+\i (00:07:15) zoom in 1 
+\i (00:07:15) setwindow pcb
+\i (00:07:15) zoom in 8.601 -1.701
+\i (00:07:15) trapsize 163
+\i (00:07:17) new 
+\i (00:07:51) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (00:07:51) Starting new design...
+\t (00:07:51) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:07:51) trapsize 1308
+\i (00:07:51) trapsize 1308
+\i (00:07:52) package symbol wizard 
+\i (00:07:52) generaledit 
+\i (00:39:35) pick grid -23.587 -35.093
+\t (00:39:35) last pick:  -22.860 -35.560
+   (00:39:36) Loading cmds.cxt 
+   (00:39:36) Loading axlcore.cxt 
+\i (00:39:36) setwindow form.sym_wizard
+\i (00:39:36) FORM sym_wizard plcc YES 
+\i (00:39:38) FORM sym_wizard wiz_next  
+\i (00:39:39) FORM sym_wizard load_template  
+\t (00:39:39) Opening existing design...
+\i (00:39:40) fillin yes 
+\t (00:39:40) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:39:40) setwindow pcb
+\i (00:39:40) trapsize 212
+\d (00:39:40) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:39:41) setwindow form.sym_wizard
+\i (00:39:41) FORM sym_wizard wiz_next  
+\i (00:39:44) FORM sym_wizard pack_units Millimeter 
+\i (00:39:45) FORM sym_wizard pack_units_create Millimeter 
+\i (00:39:47) FORM sym_wizard wiz_next  
+\i (00:39:50) FORM sym_wizard qfp_pin_count_v 16 
+\i (00:39:53) FORM sym_wizard qfp_pin_count_h 16 
+\i (00:39:53) FORM sym_wizard qfp_pin1_corner YES 
+\i (00:39:54) FORM sym_wizard wiz_next  
+\t (00:41:33) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:41:33) setwindow pcb
+\i (00:41:33) trapsize 414
+\i (00:43:43) setwindow form.sym_wizard
+\i (00:43:43) FORM sym_wizard qfp_e1 15.600 
+\i (00:43:55) FORM sym_wizard qfp_e2 15.600 
+\i (00:43:58) FORM sym_wizard qfp_width 16.250 
+\i (00:44:05) FORM sym_wizard qfp_len 16.250 
+\i (00:44:05) FORM sym_wizard wiz_next  
+\i (00:45:33) FORM sym_wizard default_pad_browse  
+\t (00:45:39) No valid name selected.
+\i (00:45:41) fillin "My_Atmega2560"
+\i (00:45:43) FORM sym_wizard wiz_next  
+\i (00:45:43) FORM sym_wizard wiz_next  
+\i (00:45:44) FORM sym_wizard wiz_finish  
+\w (00:45:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:45:44) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:45:44) setwindow pcb
+\i (00:45:44) trapsize 10524
+\t (00:45:44) Perform
